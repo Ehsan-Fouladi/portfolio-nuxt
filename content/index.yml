@@ -1,0 +1,134 @@
+seo:
+  title: "احسان فولادی - توسعه‌دهنده فول‌استک جاوااسکریپت"
+  description: "به پورتفولیوی من خوش آمدید! من احسان فولادی، توسعه‌دهنده فول‌استک جاوااسکریپت با تمرکز بر ساخت برنامه‌های وب مدرن، مقیاس‌پذیر و با عملکرد بالا هستم."
+title: "سلام، من احسان فولادی هستم فول استک دولوپر"
+description: "توسعه‌دهنده فول‌استک جاوااسکریپت با تمرکز بر معماری نرم‌افزار، کیفیت کد و توسعه راه‌حل‌های مقیاس‌پذیر و آمادهٔ تولید."
+hero:
+  links:
+    - label: "مشاهده پروژه‌ها"
+      to: /projects
+      color: "neutral"
+  images:
+    - src: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=400&fit=crop
+      alt: کد نویسی روی صفحه نمایش
+    - src: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=400&fit=crop
+      alt: ویرایشگر کد
+    - src: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=400&fit=crop
+      alt: فضای کاری توسعه‌دهنده
+    - src: https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=400&h=400&fit=crop
+      alt: نمای نزدیک کد
+    - src: https://images.unsplash.com/photo-1550439062-609e1531270e?w=400&h=400&fit=crop
+      alt: ستاپ تکنولوژی
+    - src: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=400&fit=crop
+      alt: کد روی لپتاپ
+    - src: https://images.unsplash.com/photo-1537432376149-e84978e116fd?w=400&h=400&fit=crop
+      alt: توسعه‌دهنده در حال کار
+    - src: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=400&fit=crop
+      alt: داشبورد و داده
+    - src: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=400&fit=crop
+      alt: کدنویسی روی لپتاپ
+about:
+  title: "درباره من"
+  description: "توسعه‌دهنده فول‌استک جاوااسکریپت با تمرکز بر طراحی و توسعه اپلیکیشن‌های مدرن، مقیاس‌پذیر و آمادهٔ تولید. علاقه‌مند به معماری نرم‌افزار، کیفیت کد، بهینه‌سازی عملکرد و امنیت، با رویکردی مبتنی بر یادگیری مداوم و استفاده از استانداردهای روز توسعه نرم‌افزار."
+experience:
+  title: تجربه کاری
+  items:
+    - position: "توسعه‌دهنده فرانت در"
+      date: "۱۴۰۴ - ۱۴۰۵"
+      company:
+        name: دلتاگروپ
+        logo: ""
+        url: "https://deltagroup.ir"
+        color: "#3B82F6"
+# testimonials:
+#   - quote: "رویکرد احسان به توسعه وب کاملاً محصول ما را متحول کرد. او توانایی نادری در ایجاد تعادل بین عملکرد و زیبایی دارد. بازطراحی نه تنها ظاهر بهتری داشت، بلکه تیکت‌های پشتیبانی مشتریان را ۴۰٪ کاهش داد و نرخ تبدیل را در تمام شاخص‌های کلیدی افزایش داد."
+#     author:
+#       name: 'علی رضایی'
+#       description: 'مدیر محصول در شرکت فناوری پارس'
+#       avatar:
+#         src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+#         srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+#   - quote: "همکاری با احسان بهترین تصمیمی بود که برای استارتاپ خود گرفتیم. او فقط طراحی تحویل نداد - فرضیات ما را به چالش کشید، تحقیقات کاربری جامع انجام داد و تجربه‌ای ایجاد کرد که واقعاً با مخاطبان ما هماهنگ بود. دانش فنی او از توسعه فرانت‌اند باعث شد تحویل به تیم مهندسی ما بدون دردسر باشد."
+#     author:
+#       name: 'محمد حسینی'
+#       description: 'هم‌بنیان‌گذار استارتاپ نوآور'
+#       avatar:
+#         src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+#         srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+#   - quote: "احسان در تبدیل داده‌های پیچیده به رابط‌های کاربری بصری بسیار ماهر است. کار او روی پروژه‌های قبلی نه تنها از نظر بصری خیره‌کننده بود، بلکه نحوه تعامل کاربران با اطلاعات را به طور اساسی تغییر داد. او هر مشکل را با خلاقیت و دقت تحلیلی بررسی می‌کند که دقیقاً همان چیزی بود که ما به آن نیاز داشتیم."
+#     author:
+#       name: 'سارا محمدی'
+#       description: 'مدیر ارشد نوآوری در شرکت سبز'
+#       avatar:
+#         src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+#         srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+blog:
+  title: "آخرین مقالات"
+  description: "برخی از اخیرترین مطالب من"
+skills:
+  title: مهارت‌ها
+  description: فناوری‌ها و ابزارهایی که با آنها کار می‌کنم.
+  categories:
+    - title: فرانت‌اند
+      items:
+        - React
+        - Vue
+        - Nuxt
+        - Tailwind CSS
+        - Bootstrap
+        - GSAP
+        - Motion
+        - HTML
+        - CSS
+    - title: بک‌اند
+      items:
+        - Node
+        - Express
+        - NestJS
+        - MySQL
+        - PostgreSQL
+        - REST API
+        - GraphQL
+    - title: دواپس
+      items:
+        - Docker
+        - CI/CD
+        - Git
+        - GitHub
+        - Linux
+    - title: UI/UX
+      items:
+        - Figma
+        - Responsive Design
+    - title: ابزارها
+      items:
+        - VS Code
+        - Vite
+        - Supabase
+        - Vercel
+faq:
+  title: سوالات متداول
+  description: پاسخ به سوالات رایج در مورد مهارت‌ها و فرآیند کاری من.
+  categories:
+    - title: مهارت‌ها و تخصص
+      questions:
+        - label: چه فناوری‌هایی رو بلدی؟
+          content: "من در فرانت‌اند با React، Vue و Nuxt تخصص دارم. همچنین با Tailwind CSS، Bootstrap، GSAP و Motion برای طراحی و انیمیشن کار می‌کنم. در بک‌اند هم با Node.js، Express و NestJS آشنا هستم و تجربه کار با MySQL، PostgreSQL، REST API و GraphQL رو دارم."
+        - label: با چه ابزارهایی کار می‌کنی؟
+          content: "از VS Code به عنوان ویرایشگر کد، Vite برای build tool، Docker برای کانتینرسازی، و Git/GitHub برای مدیریت نسخه استفاده می‌کنم. همچنین با Figma برای طراحی رابط کاربری و Vercel/Supabase برای استقرار پروژه‌ها کار می‌کنم."
+        - label: چقدر تجربه کار تیمی داری؟
+          content: "در دلتاگروپ به عنوان توسعه‌دهنده فرانت مشغول به کار بودم و تجربه همکاری در تیم‌های توسعه رو دارم. با اصول CI/CD، کدنویسی تمیز و معماری مقیاس‌پذیر آشنا هستم."
+    - title: فرآیند کاری
+      questions:
+        - label: فرآیند توسعه شما چگونه است؟
+          content: "فرآیند من شامل درک نیازمندی‌ها، طراحی رابط کاربری، توسعه، تست و استقرار است. همیشه کد تمیز، قابل نگهداری و خوانا می‌نویسم و از اصول SOLID و الگوهای طراحی پیروی می‌کنم."
+        - label: چطور کیفیت کد رو تضمین می‌کنی؟
+          content: "از TypeScript برای تایپ قوی، ESLint برای لینتینگ، و تست‌های خودکار استفاده می‌کنم. همچنین code review انجام می‌دهم و مستندسازی مناسب رو رعایت می‌کنم."
+        - label: چطور عملکرد برنامه رو بهینه می‌کنی؟
+          content: "از lazy loading، code splitting، بهینه‌سازی تصاویر، caching و SSR/SSG در Nuxtو next استفاده می‌کنم. همچنین Lighthouse و Web Vitals رو برای اندازه‌گیری عملکرد رصد می‌کنم."
+    - title: همکاری
+      questions:
+        - label: آیا پروژه‌های فریلنسری قبول می‌کنی؟
+          content: "بله، پروژه‌های فریلنسری و همکاری‌های تیمی قبول می‌کنم. برای اطلاعات بیشتر از طریق تلگرام یا ایمیل تماس بگیرید."
+        - label: چطور می‌تونم باهات تماس بگیرم؟
+          content: "از طریق تلگرام، ایمیل یا لینکدین می‌تونید با من در ارتباط باشید. لینک‌ها در بخش فوتر سایت موجود است."

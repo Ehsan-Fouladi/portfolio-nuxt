@@ -1,0 +1,62 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@source "../../../content/**/*";
+
+body {
+  font-family: var(--font-sans);
+  font-optical-sizing: auto;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../font/woff2/IRANSansWeb_Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../font/woff2/IRANSansWeb_Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('../font/woff2/IRANSansWeb_UltraLight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('../font/woff2/IRANSansWeb.woff2') format('woff2');
+}
+
+@theme static {
+  --font-sans: "IRANSans", system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --ui-container: var(--container-4xl);
+
+  ::selection {
+    color: #282a30;
+    background-color: #c8c8c8;
+  }
+}
+
+.dark {
+  ::selection {
+    color: #ffffff;
+    background-color: #474747;
+  }
+}

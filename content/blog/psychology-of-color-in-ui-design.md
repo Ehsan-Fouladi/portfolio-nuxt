@@ -3,7 +3,7 @@ title: روانشناسی رنگ در طراحی رابط کاربری
 description: بررسی چگونگی تأثیر انتخاب‌های راهبردی رنگ بر رفتار کاربر،
   برانگیختن احساسات و بهبود تجربه کلی کاربر محصولات دیجیتال.
 date: 2026-07-23
-image: https://images.pexels.com/photos/40799/paper-colorful-color-loose-40799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59YzCK3YBuyj2bcH2tVtwDSv0q3OBj6DYXCnRT3zrHMIj2lbAD5EqIOrg&s=10
 minRead: 5
 author:
   name: احسان فولادی

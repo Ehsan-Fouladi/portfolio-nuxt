@@ -27,7 +27,7 @@ useHead({
 })
 
 useSeoMeta({
-  titleTemplate: '%s - پورتفولیوی احسان فولادی',
+  titleTemplate: '%s',
   twitterCard: 'summary_large_image'
 })
 

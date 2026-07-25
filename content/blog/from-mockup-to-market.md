@@ -3,7 +3,7 @@ title: "از ماکاپ تا بازار: فرآیند طراحی محصول من
 description: تحلیل دقیق روش طراحی تکراری من، از تحقیق اولیه تا تحویل نهایی،
   با نکات عملی برای طراحان در هر مرحله.
 date: 2026-07-23
-image: https://images.pexels.com/photos/1050312/pexels-photo-1050312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YjNz60W54azD96Ropez2opPnI_iKx30zpzxntmUC548WV-p70wLFkE8&s=10
 minRead: 10
 author:
   name: احسان فولادی

@@ -41,6 +41,7 @@ export default defineNuxtConfig({
   },
 
   app: {
+    baseURL: "/portfolio-nuxt/",
     head: {
       meta: [
         { name: "charset", content: "utf-8" },

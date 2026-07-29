@@ -105,7 +105,7 @@
       </div>
     </template>
 
-    <UMarquee>
+    <UMarquee :overlay="isDesktop">
       <Motion v-for="(img, index) in page.hero.images" :key="index" :initial="{
         scale: 1.1,
         opacity: 0,
@@ -126,10 +126,16 @@
 </template>
 <script setup lang="ts">
 import type { IndexCollectionItem } from '@nuxt/content'
+import { breakpointsTailwind } from '@vueuse/core'
 
 const { footer, global } = useAppConfig()
 
 defineProps<{
   page: IndexCollectionItem
 }>()
+
+const breakpoints = useBreakpoints(breakpointsTailwind, {
+  ssrWidth: 768
+})
+const isDesktop = breakpoints.greater('md')
 </script>

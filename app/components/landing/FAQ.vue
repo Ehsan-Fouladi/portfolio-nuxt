@@ -12,11 +12,12 @@
       label: 'truncate'
     }">
       <template #content="{ item }">
-        <UAccordion leading-icon="lucide:plus" :items="item.questions" :unmount-on-hide="false" :ui="{
-          item: 'border-none',
-          trigger: 'mb-2 border-0 group px-4 transform-gpu rounded-lg bg-elevated/60 will-change-transform hover:bg-muted/50 text-base flex justify-between',
-          leadingIcon: 'group-data-[state=closed]:rotate-0 group-data-[state=open]:rotate-135 text-base text-muted transition-transform duration-200'
-        }">
+        <UAccordion leading-icon="lucide:plus" :aria-label="item.questions" :items="item.questions"
+          :unmount-on-hide="false" :ui="{
+            item: 'border-none',
+            trigger: 'mb-2 border-0 group px-4 transform-gpu rounded-lg bg-elevated/60 will-change-transform hover:bg-muted/50 text-base flex justify-between',
+            leadingIcon: 'group-data-[state=closed]:rotate-0 group-data-[state=open]:rotate-135 text-base text-muted transition-transform duration-200'
+          }">
           <template #body="{ item: _item }">
             <p class="px-4 text-muted leading-relaxed whitespace-pre-line">
               {{ _item.content }}

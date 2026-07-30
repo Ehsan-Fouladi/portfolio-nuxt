@@ -1,18 +1,18 @@
 <template>
   <UApp :locale="fa_ir">
+    <CustomCursor />
     <UContainer class="sm:border-x border-default pt-10">
       <AppHeader :links="navLinks" />
-      <CustomCursor />
       <UMain class="relative">
         <NuxtLoadingIndicator />
         <NuxtRouteAnnouncer />
         <NuxtPage />
       </UMain>
+      <AppFooter />
       <ClientOnly>
         <LazyUContentSearch :files="files" :navigation="navigation" shortcut="meta_k" :links="navLinks"
           :fuse="{ resultLimit: 42 }" />
       </ClientOnly>
-      <AppFooter />
     </UContainer>
   </UApp>
 </template>

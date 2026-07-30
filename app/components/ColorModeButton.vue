@@ -34,7 +34,7 @@ const startViewTransition = (event: MouseEvent) => {
   })
 
   transition.ready.then(() => {
-    const duration = 600
+    const duration = 500
     document.documentElement.animate(
       {
         clipPath: [

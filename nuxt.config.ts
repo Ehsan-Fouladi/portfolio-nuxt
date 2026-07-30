@@ -1,6 +1,8 @@
 const isDevelopment = process.env.NODE_ENV === "development" ? true : false;
 
 export default defineNuxtConfig({
+  compatibilityDate: "2026-06-30",
+
   experimental: {
     noVueServer: true,
   },
@@ -43,10 +45,6 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/",
     head: {
-      meta: [
-        { name: "charset", content: "utf-8" },
-        { name: "viewport", content: "width=device-width, initial-scale=1" },
-      ],
       htmlAttrs: {
         dir: "rtl",
         lang: "fa",
@@ -61,8 +59,6 @@ export default defineNuxtConfig({
     },
   },
 
-  compatibilityDate: "2026-06-30",
-
   nitro: {
     prerender: {
       routes: ["/"],
@@ -73,6 +69,17 @@ export default defineNuxtConfig({
   icon: {
     clientBundle: {
       scan: true,
+      icons: [
+        "lucide:check-circle",
+        "lucide:chevron-right",
+        "lucide:plus",
+        "lucide:arrow-left",
+        "lucide:external-link",
+        "simple-icons:github",
+        "simple-icons:linkedin",
+        "simple-icons:telegram",
+        "simple-icons:gmail",
+      ],
     },
   },
 

@@ -9,13 +9,13 @@ hero:
       to: /projects
       color: "neutral"
   images:
-    - src: https://read.learnyard.com/content/images/2024/07/logo.png
+    - src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qmFoSC4yil7mue4pm-PMqbmadq2t78piaUT0YN5g34SHajWB1NV76Gc&s=10
       alt: javascript
-    - src: https://img-c.udemycdn.com/course/480x270/4418914_9e62_12.jpg?w=3840&q=75
+    - src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPJi_h84-3ywrYF8udcSCebBU6rnZUGmlgLmwpctt7pB9c8F_JjR--cs&s=10
       alt: typescript
-    - src: https://miro.medium.com/0*Eqqrv9zVpH99X726.png
+    - src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSVoAZHbojc-QAIFn75dBj7bUwuB5L448TY7nzKMr-PntI9H4FhOpP-Q&s=10
       alt: rust
-    - src: https://liora.io/app/uploads/sites/9/2026/02/python-language-popular.jpg
+    - src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKjgqrpo21iEKY79E0R1gPUOWrfyK2K9_--MwJgltAUSiuFZsfM7ajdc&s=10
       alt: python
 about:
   title: "درباره من"
